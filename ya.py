@@ -12,3 +12,4 @@ def driver(request):
 
 def test_example(driver):
     driver.get("http://www.ya.ru")
+    driver.get("http://www.yandex.ru")
